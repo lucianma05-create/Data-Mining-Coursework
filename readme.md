@@ -19,6 +19,7 @@ After training, the models are saved locally and can be directly used for testin
 ---
 
 ## 2. Project Structure
+```
 data_mining/
 │
 ├── data/
@@ -32,7 +33,7 @@ data_mining/
 │
 ├── train.py
 └── run.py
-
+```
 
 **Description**
 
